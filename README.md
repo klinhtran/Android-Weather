@@ -9,4 +9,5 @@
 Create an app that has one button. When the button is pressed, the current temperature in Houston Texas is shown in a text field. By current temperature, we mean the temperature when we run your app.
 
 # Your comments or assumptions
-- <add them here>
+- Instead of showing the weather for Houston Texas, the app gives the user an option of choosing a valid city within the US
+- If the city is invalid, the app does nothing at this point. My ultimate goal is to make create an error message with an AlertDialog
